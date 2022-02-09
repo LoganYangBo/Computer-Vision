@@ -14,4 +14,34 @@ Gradient magnitude;
 
 Sobel masks; 
 
-Canny edge detector
+Canny edge detector;
+
+## HW3(Image Pyramids & Region Extraction): 
+
+Image Pyramids: 
+
+1)Gaussian pyramid;
+
+2)Laplacian pyramid;
+
+3)Reconstruction; 
+
+Region Extraction:
+
+1)Abs Diff;
+
+2)Statistical Distances;
+
+3)Dilate;
+
+4)Connected Components Algorithm (keep only the largest region);
+
+## HW4(2-D Shape & PCA): 
+
+7 similitude moment shape descriptors
+
+Eigenvalues (V) and Eigenvectors (U)
+
+Rotate Y using the eigenvectors
+
+Data reduction
