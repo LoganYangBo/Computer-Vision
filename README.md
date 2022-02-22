@@ -45,3 +45,15 @@ Eigenvalues (V) and Eigenvectors (U)
 Rotate Y using the eigenvectors
 
 Data reduction
+
+## HW5(Motion): 
+
+Motion detection between consecutive frames using (abs) image differencing
+
+MEI and MHI on the image sequence
+
+Compute the normal flow between the images
+
+## HW6(Tracking): 
+
+ Covariance matching technique
