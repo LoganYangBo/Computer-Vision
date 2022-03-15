@@ -57,3 +57,9 @@ Compute the normal flow between the images
 ## HW6(Tracking): 
 
  Covariance matching technique
+ 
+ ## HW7(Image Segmentation and Template Matching):
+ 
+ SLIC superpixel segmentation algorithm
+ 
+ color-based NCC
